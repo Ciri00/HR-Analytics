@@ -62,17 +62,17 @@ Employee attrition was becoming a major concern, especially in key departments l
 
 ##  Deliverables
 
-- [✔️ Excel Dashboard](HR%20Analytics%20Dashboard%20by%20MS%20Excel/HR%20Data.xlsx)  
-- [✔️ Tableau Dashboard (.twbx)](HR%20Analytics%20Dashboard%20by%20Tableau/HR%20Analytics%20Dashboard.twbx)  
-- [✔️ SQL Queries](SQL%20Queries/queries.sql)  
-- [✔️ PDF Insight Summary](SQL%20Queries/Summary.pdf)
+- [✔️ Excel Dashboard][Visualization%20using%20MS%20Excel/HR%20Data.xlsx]
+- [✔️ Tableau Dashboard (.twbx)][Visualization%20using%20tableau/HR%20Analytics%20Dashboard.twbx]
+- [✔️ SQL Queries][SQL%20QUERIES/queries.sql]
+- [✔️ PDF Insight Summary][SQL%20QUERIES/Summary.pdf>]
 
 ---
 
 ## 📸 Previews
 
 ### Excel Dashboard  
-![Excel Dashboard](HR%20Analytics%20Dashboard%20by%20MS%20Excel/excel%20visualisation.jpg)
+![Excel Dashboard][Visualization%20using%20MS%20Excel/HR%20Excel%20visualization.png]
 
 ### Tableau Dashboard  
 *(Open `.twbx` in Tableau Public Desktop to explore)*
