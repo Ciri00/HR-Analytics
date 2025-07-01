@@ -1,6 +1,6 @@
 #  HR Analytics Project – Data-Driven Insights on Employee Attrition
 
-A full-stack HR Analytics project using **Excel**, **Tableau**, and **SQL** to explore and visualize employee demographics, attrition trends, and job satisfaction. This project demonstrates real-world BI and analytics skills across data cleaning, KPI development, and dashboard storytelling.
+This is a HR Analytics project using **Excel**, **Tableau**, and **SQL** to explore and visualize employee demographics, attrition trends, and job satisfaction. This project demonstrates real-world BI and analytics skills across data cleaning, KPI development, and dashboard storytelling.
 
 ---
 
